@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    position: absolute;
+    font-size: 150px;
+    background-image: url(./Abstract.jpg);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+}
